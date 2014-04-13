@@ -1,4 +1,6 @@
-resources
+Class Resources
 =========
 
-A collection of resources organized by topic and level of %w(articles posts books screencasts blogs) to share with students.
+Check out the [wiki](https://github.com/ga-instructors/resources/wiki) for a collection of resources (articles posts books screencasts blogs) to share with students.
+
+Please help us keep them organized by topic and level.
